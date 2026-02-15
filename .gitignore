@@ -1,1 +1,6 @@
 node_modules
+node-compile-cache
+dist
+codespaces_logs
+mcp-5L2MKk
+system-commandline-sentinel-files
