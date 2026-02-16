@@ -1,7 +1,7 @@
 # React + Vite + TailwindCSS + shadcn/ui Template
 ### latest release
 - shadow change
-
+- minor change
 A modern React application template built with Vite, TypeScript, TailwindCSS v4, and shadcn/ui components.
 
 ## Features
